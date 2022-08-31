@@ -32,6 +32,6 @@ Hello sir, this simple console application calculates your age when you enter yo
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Age Calculation](https://github.com/Melik-B/AgeCalculation)
 
 <p align="right">-Melik Baykal</p>
