@@ -34,4 +34,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Age Calculation](https://github.com/Melik-B/AgeCalculation)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
